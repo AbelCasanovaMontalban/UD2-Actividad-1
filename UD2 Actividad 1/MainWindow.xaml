@@ -32,7 +32,7 @@
             </Grid>
         </Border>
 
-        <Grid>
+        <Grid x:Name="contenedorParejas_Grid" ShowGridLines="True">
             
             
         </Grid>
